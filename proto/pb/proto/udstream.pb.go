@@ -479,7 +479,7 @@ const file_proto_udstream_proto_rawDesc = "" +
 	"\x06Packet\x12,\n" +
 	"\x05delta\x18\x01 \x01(\v2\x14.udstream.DeltaBatchH\x00R\x05delta\x12,\n" +
 	"\x04full\x18\x02 \x01(\v2\x16.udstream.FullSnapshotH\x00R\x04fullB\t\n" +
-	"\apayloadB\x15Z\x13udproto/proto/pb;pbb\x06proto3"
+	"\apayloadBBZ@github.com/artemstarovojtovigorevich-eng/go-udstream/proto/pb;pbb\x06proto3"
 
 var (
 	file_proto_udstream_proto_rawDescOnce sync.Once
