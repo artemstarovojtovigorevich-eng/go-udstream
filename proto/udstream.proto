@@ -2,8 +2,7 @@ syntax = "proto3";
 
 package udstream;
 
-// Здесь example.com можно заменить на свой модуль
-option go_package = "udproto/proto/pb;pb";
+option go_package = "github.com/artemstarovojtovigorevich-eng/go-udstream/proto/pb;pb";
 
 message Value {
   oneof value {
